@@ -1,0 +1,46 @@
+{
+  "Video Devices": {
+    "Description1": "Parsec Virtual Display Adapter",
+    "DeviceID1": "VideoController1",
+    "Name1": "Parsec Virtual Display Adapter",
+    "VideoProcessor1": null,
+    "Description2": "NVIDIA GeForce RTX 4080 SUPER",
+    "DeviceID2": "VideoController2",
+    "Name2": "NVIDIA GeForce RTX 4080 SUPER",
+    "VideoProcessor2": "NVIDIA GeForce RTX 4080 SUPER"
+  },
+  "RAM": {
+    "BankLabel1": "P0 CHANNEL A",
+    "Capacity1": 17179869184,
+    "ConfiguredClockSpeed1": 3200,
+    "Model1": null,
+    "Name1": "Physical Memory",
+    "OtherIdentifyingInfo1": null,
+    "PartNumber1": "CMK32GX4M2B3200C16  ",
+    "Speed1": 3200,
+    "Tag1": "Physical Memory 1",
+    "BankLabel2": "P0 CHANNEL B",
+    "Capacity2": 17179869184,
+    "ConfiguredClockSpeed2": 3200,
+    "Model2": null,
+    "Name2": "Physical Memory",
+    "OtherIdentifyingInfo2": null,
+    "PartNumber2": "CMK32GX4M2B3200C16  ",
+    "Speed2": 3200,
+    "Tag2": "Physical Memory 3"
+  },
+  "Processor": {
+    "DeviceID1": "CPU0",
+    "Name1": "AMD Ryzen 7 5800X3D 8-Core Processor           "
+  },
+  "Bios Version": {
+    "IdentificationCode1": null,
+    "Manufacturer1": "American Megatrends International, LLC.",
+    "Name1": "F15c"
+  },
+  "Motherboard Information": {
+    "Manufacturer1": "Gigabyte Technology Co., Ltd.",
+    "Model1": "B550 AORUS ELITE",
+    "TotalPhysicalMemory1": 34259324928
+  }
+}
